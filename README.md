@@ -7,6 +7,8 @@ The system uses a **machine-specific, condition-matched baseline detector**. Ins
 > **Is the current machine vibrating more than expected for this speed and load?**
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a48008e-412e-4873-92d8-c6557ed2a19b" />
+
 
 ## Project status
 
