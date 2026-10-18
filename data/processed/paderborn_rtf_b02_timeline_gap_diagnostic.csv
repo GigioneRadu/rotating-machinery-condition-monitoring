@@ -1,0 +1,2 @@
+gap_before_measurement,previous_measurement,previous_timestamp,current_timestamp,gap_seconds,temp_t1_before,temp_t1_after,frontal_rms_before,frontal_rms_after,rear_rms_before,rear_rms_after
+922,921,2021-10-25 13:32:36,2021-10-25 13:37:18,282.0,73.5943468233011,62.195883367039,0.2860915105291447,0.2660382577109894,0.6811193021580326,0.5788504155208933

@@ -1,0 +1,2 @@
+experiment,measurements,reference_start,reference_end,k_neighbors,warning_threshold,anomaly_threshold,sustained_count,support_threshold,first_sustained_warning,first_sustained_anomaly,final_measurement,final_anomaly_score,final_state,in_support_fraction,notes
+B02,1116,52,250,10,3.0,6.0,5,0.8628603855924143,864,866,1116,54.036320142509126,ANOMALY,0.9381720430107527,First ~200 measurements after recorded warm-up.

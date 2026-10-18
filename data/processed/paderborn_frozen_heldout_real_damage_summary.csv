@@ -1,0 +1,2 @@
+heldout_bearings,evaluated_windows,accuracy,macro_f1,recall_inner_race,recall_outer_race,envelope_low_hz,envelope_high_hz,inner_harmonic_weight,inner_sideband_weight
+6,477,0.7044025157232704,0.6989835879212113,0.5690376569037657,0.8403361344537815,1000,5000,0.7,0.3

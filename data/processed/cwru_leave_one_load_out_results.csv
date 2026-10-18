@@ -1,0 +1,5 @@
+test_load_hp,train_loads,train_samples,test_samples,accuracy,macro_f1,mean_confidence,min_confidence,max_confidence
+0,"1,2,3",120,40,1.0,1.0,0.9596,0.756,1.0
+1,"0,2,3",120,40,1.0,1.0,0.99125,0.942,1.0
+2,"0,1,3",120,40,1.0,1.0,0.9958499999999999,0.92,1.0
+3,"0,1,2",120,40,1.0,1.0,0.97105,0.836,1.0

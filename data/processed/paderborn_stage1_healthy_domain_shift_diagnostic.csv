@@ -1,0 +1,13 @@
+feature_group,test_bearing,true_class,nearest_train_bearing,nearest_train_class,nearest_bearing_distance,distance_to_healthy_centroid,distance_to_damaged_centroid,nearest_class_centroid,healthy_centroid_closer
+time_domain_only,K004,healthy,KA05,damaged,1.239342295584973,3.963510322851818,3.3151166100279026,damaged,False
+time_domain_only,K005,healthy,KA05,damaged,1.3680546730517327,4.229791253034653,3.509674655638218,damaged,False
+raw_frequency_only,K004,healthy,KA01,damaged,0.6375083678086947,3.332192954985193,1.3855663055375647,damaged,False
+raw_frequency_only,K005,healthy,KA01,damaged,0.34083495155349425,3.5841955868762283,1.5582326944819151,damaged,False
+envelope_only,K004,healthy,KI07,damaged,0.33694178680845066,1.6785252854331678,1.268797283793094,damaged,False
+envelope_only,K005,healthy,KA07,damaged,0.3790555959917687,1.692398770722458,1.3448192769623406,damaged,False
+physics_frequency_only,K004,healthy,KA07,damaged,0.9971726734545164,3.7310798735877326,1.8787337582536143,damaged,False
+physics_frequency_only,K005,healthy,KA07,damaged,0.7167809272689343,3.963668957433998,2.0583070756915456,damaged,False
+time_plus_envelope,K004,healthy,KA05,damaged,1.3062961997884377,4.304284053497332,3.5496259923326607,damaged,False
+time_plus_envelope,K005,healthy,KA05,damaged,1.499208116694296,4.555803731877763,3.7585043669149507,damaged,False
+all_features,K004,healthy,KA05,damaged,1.6359734138541926,5.443378647719114,3.810464364416054,damaged,False
+all_features,K005,healthy,KA05,damaged,1.7524553656282478,5.796706448352753,4.06871530169796,damaged,False

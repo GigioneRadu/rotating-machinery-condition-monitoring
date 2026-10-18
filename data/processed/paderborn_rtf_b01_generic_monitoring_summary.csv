@@ -1,0 +1,2 @@
+experiment,measurements,reference_start,reference_end,k_neighbors,warning_threshold,anomaly_threshold,sustained_count,support_threshold,first_sustained_warning,first_sustained_anomaly,final_measurement,final_anomaly_score,final_state,in_support_fraction,notes
+B01,377,134,190,10,3.0,6.0,5,1.4972840152712954,208,208,377,124.02864360680196,ANOMALY,0.8355437665782494,"Post-restart reference, entirely after the two major acquisition gaps."

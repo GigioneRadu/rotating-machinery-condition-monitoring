@@ -1,0 +1,2 @@
+experiment,measurements,reference_start,reference_end,k_neighbors,warning_threshold,anomaly_threshold,sustained_count,support_threshold,first_sustained_warning,first_sustained_anomaly,final_measurement,final_anomaly_score,final_state,in_support_fraction,notes
+B03,614,1,200,10,3.0,6.0,5,0.824249214026625,547,549,614,53.761594342999906,ANOMALY,0.9723127035830619,First 200 recorded measurements; B03 files begin directly in randomized operating regime.
